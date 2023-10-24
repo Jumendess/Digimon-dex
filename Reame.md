@@ -23,7 +23,7 @@ O projeto "Digimon Dex" é uma aplicação web que permite aos usuários pesquis
 1. Clone o repositório:
 
    ```shell
-   git clone https://github.com/seu-usuario/digimon-dex.git
+   git clone https://github.com/seu-usuario/Digimon-dex.git
    Abra o arquivo index.html em seu navegador.
    ```
 
